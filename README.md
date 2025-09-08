@@ -12,9 +12,8 @@ The EA operates on a simple but effective range breakout principle:
 
 ## Versions Available
 
-### Version 1.01 - Basic Multi-TP Version
+### Version 1.01 - Basic TP Version
 - Manual take profit management with partial position closing
-- Trailing stop functionality
 - Complex trade tracking system
 
 ### Version 2.02 - Split Order Version
